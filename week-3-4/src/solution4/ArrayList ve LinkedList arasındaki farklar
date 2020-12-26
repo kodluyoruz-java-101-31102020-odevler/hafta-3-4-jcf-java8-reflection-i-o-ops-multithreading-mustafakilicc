@@ -1,0 +1,9 @@
+Arraylist'Te kayýtlar hafýzada ard arda tutulur. Yapý olarak daha basittir.
+ArrayList rastgele bir eriþim yapar yani tüm liste boyunca yineleme olmadan Array’de daha önce belirlenen eleman bulur. 
+
+LinkedList'te aramaya birinci elemandan baþlanýr ve aranan eleman bulana kadar birer birer ilerler.
+
+Arama yapýlacaðý zaman rastgele eriþim, pointer ile veri yapýsý üzerinde gezinmeye göre daha hýzlý çalýþýr.
+elemanlar hafýzada art arda deðilde birbirini referans gösterecek þekilde tutulur. 
+Bu bize özellikle ekleme iþlerinde büyük esneklik verir. 
+Dizinin aksine iki elemanýn arasýna birþey ekleyeceðiniz zaman kaydýrma iþlemleri yapmanýza gerek kalmaz. 
